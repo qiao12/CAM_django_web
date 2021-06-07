@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="tx@10.5.44.162:22">
+    <serverData>
+      <paths name="tx@10.5.44.128:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/tx/文档/qjq/Centernet " local="$USER_HOME$/qjq" web="/" />
+            <mapping local="" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="tx@10.5.44.162:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_400" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
